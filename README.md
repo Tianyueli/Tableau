@@ -5,18 +5,23 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
   
 # Objective
+- The objective of this project is to analyze the available City Bike program data and identify user trend and identify areas of opportunities to help improve the city program.
 # Analysis
 - Bike Station Popularity:
-  - Newport Pkwy & Liberty Light Rail bike stations are the top 2 locations for bike rentals
-  - 
+  - Newport Pkwy & Liberty Light Rail bike stations are the top 2 locations for bike rentals.
+  - Roughly 800 trips took place per station during October and November of 2020.
 - Rideship Trend:
   - Female users take up the majority of city bike rentals and accounts for nearly half the total trip duration
   - Male users tend to be evenly split when comes to customers and subscribers; whereas female users are 4 ~ 6 times more likely to maintain a subscription(habit) of using the shared bikes.
   - Therefore, femal bike users appear to be the target audience of the city bikes. Meanwhile, male users can be further assessed as potential avenues for future marketing or expanding our user base.
-  - Usertype Market Trend: As the winter months arrive, usage drops rapidly for both customers and subscribers.
+  - Usertype Market Trend: Additional, as the winter months arrive, bike usage dropped rapidly for both customers and subscribers.
+    - If additional weather data was available, analysis can also be conducted to understand the impact of temperature on the bike-sharing program.  
 - Program Maintenance Considerations
   - Bike IDs 44258, 45350, 46532 are 3 of the top 10 bikes utilized in the bike-sharing program. Due to a variety of factors such as location, bike placement, bike condition, etc. these bikes may require more frequent care and maintenance to ensure performance.
 
+# Limitation
+- Due to the data size limitation within Tableau, this analysis contains only two months of city bike program data from 2020.
+- If further data analysis was allowed, there could be clearer findings on the popular months of the city bike program and whether gender and usertype trends appear to shift throughout the year.
 # References
 - Data Background: https://citibikenyc.com/system-data
 - Data Source: https://s3.amazonaws.com/tripdata/index.html
