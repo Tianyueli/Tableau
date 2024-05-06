@@ -6,9 +6,16 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
   
 # Objective
 # Analysis
+- Bike Station Popularity:
+  - Newport Pkwy & Liberty Light Rail bike stations are the top 2 locations for bike rentals
+  - 
 - Rideship Trend:
-  - Overall, femal bike users are the target audience of the city bikes. Male users can be  evaluated for advertising for market expansion
-- ABC
+  - Female users take up the majority of city bike rentals and accounts for nearly half the total trip duration
+  - Male users tend to be evenly split when comes to customers and subscribers; whereas female users are 4 ~ 6 times more likely to maintain a subscription(habit) of using the shared bikes.
+  - Therefore, femal bike users appear to be the target audience of the city bikes. Meanwhile, male users can be further assessed as potential avenues for future marketing or expanding our user base.
+  - Usertype Market Trend: As the winter months arrive, usage drops rapidly for both customers and subscribers.
+- Program Maintenance Considerations
+  - Bike IDs 44258, 45350, 46532 are 3 of the top 10 bikes utilized in the bike-sharing program. Due to a variety of factors such as location, bike placement, bike condition, etc. these bikes may require more frequent care and maintenance to ensure performance.
 
 # References
 - Data Background: https://citibikenyc.com/system-data
