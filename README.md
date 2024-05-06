@@ -21,7 +21,8 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 
 # Limitation
 - Due to the data size limitation within Tableau, this analysis contains only two months of city bike program data from 2020.
-- If further data analysis was allowed, there could be clearer findings on the popular months of the city bike program and whether gender and usertype trends appear to shift throughout the year.
+- The data from October and November were also consolidated via csv in order to accomodate the field requirements in Tableau.
+- If additional data was accessible, clearer and more in-depth findings could be generated on the popular months of the city bike program and whether gender and usertype trends appear to shift throughout the year.
 # References
 - Data Background: https://citibikenyc.com/system-data
 - Data Source: https://s3.amazonaws.com/tripdata/index.html
